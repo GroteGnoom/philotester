@@ -1,0 +1,4 @@
+gcc -Wall -Wextra main.c -o tester
+make -C ..
+export ARG="10 100 10 10"
+../philo $ARG | ./tester $ARG

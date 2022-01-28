@@ -1,0 +1,9 @@
+tester
+*.o
+a.out
+my_*
+*.swp
+*.a
+*.~
+*.dSYM
+tags
